@@ -8,5 +8,5 @@
 
 ## Tips
 1. 当问题规模比较大时，采用cin接收输入会比较耗时。
-   解决方法：a. 换成scanf; b. 用std::ios::sync_with_stdio(false)提升cin效率;
+   解决方法：a. 换成 `scanf` ; b. 用 `std::ios::sync_with_stdio(false)` 提升cin效率;
 2. 学会选择合适的数据结构，如优先队列、双端队列等
